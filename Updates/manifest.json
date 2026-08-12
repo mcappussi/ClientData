@@ -1,6 +1,6 @@
 {
-  "version": 1,
-  "generated": "2026-08-12T10:28:50.2054277-03:00",
+  "version": 2,
+  "generated": "2026-08-12T10:43:46.0975218-03:00",
   "algorithm": "SHA-256",
   "files": [
     {
@@ -31,7 +31,7 @@
     {
       "path": "manifest.json",
       "size": 1850644,
-      "sha256": "93fd6da1b8b7b5e38ccae215be698b54bee85f34e287e6438136760e6982e073"
+      "sha256": "30cd91aaf5328f869e73bc13f7f263f60810aac219e064eb6447361e8525a747"
     },
     {
       "path": "Resolutions.xml",
