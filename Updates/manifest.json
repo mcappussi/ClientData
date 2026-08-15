@@ -1,12 +1,12 @@
 {
-  "version": 5,
-  "generated": "2026-08-14T15:03:30.4801876-03:00",
+  "version": 12,
+  "generated": "2026-08-14T21:32:17.6318749-03:00",
   "algorithm": "SHA-256",
   "files": [
     {
       "path": "av-code45.pak",
       "size": 96860,
-      "sha256": "8d109072a0b76dba2c81f42c010dd323eaa1f75c7e3805215a19c3a067a0db42"
+      "sha256": "386e5e080968257d119fe321fab7314b9b9b34e4ca9a161bbd543317652f0212"
     },
     {
       "path": "ChatBlocked.txt",
@@ -40,8 +40,8 @@
     },
     {
       "path": "manifest.json",
-      "size": 3801081,
-      "sha256": "01fdbb5fb6507ecc2eee2408c7c0bd3f089187a4fc9bce82ccbc9da8c94a7943"
+      "size": 3801635,
+      "sha256": "1bf9bf7929b1a9900b4f223c1bd16da0e97b7eadced06c1f03891f43c4c21bc8"
     },
     {
       "path": "Resolutions - Copy.xml",
@@ -105429,6 +105429,11 @@
       "sha256": "2dedbc407e0e611f3c9e4938192609782267fef94fbd3e9576cc9128dde285eb"
     },
     {
+      "path": "Interface/Android/Interface/ButtonsActions.ozt",
+      "size": 524310,
+      "sha256": "62378fbdce3fd3d138c9b3ecd25aaccabe291081c608b25212297c274f9ce766"
+    },
+    {
       "path": "Interface/Android/Interface/Chat_Input_Background.ozt",
       "size": 4118,
       "sha256": "95679537f1ea2d25c9696dfaaebb7f93b4a6531765cb23e026854b77bd49ae2f"
@@ -105437,6 +105442,16 @@
       "path": "Interface/Android/Interface/Chat_Submit.ozt",
       "size": 18326,
       "sha256": "064609d7de9331b3ab25d43f0d5eaebabe1442b151b429a4c7fce3fd5b532621"
+    },
+    {
+      "path": "Interface/Android/Interface/ClassFaces.ozt",
+      "size": 998306,
+      "sha256": "24c2debccbd0724d565a4a1b1564883c7ac5a2bb1df50b78a64fa3d066f7e9f8"
+    },
+    {
+      "path": "Interface/Android/Interface/CollectItem.ozt",
+      "size": 65558,
+      "sha256": "482229b36777495de5b21127ddcd700cbbd33f0da6db43170e468332c54ee905"
     },
     {
       "path": "Interface/Android/Interface/imgui.ini",
